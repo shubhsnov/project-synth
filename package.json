@@ -3,9 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bluebird": "^3.5.5",
+    "colyseus": "^0.11.9",
+    "colyseus.js": "^0.11.0",
+    "history": "^4.9.0",
+    "object-assign": "^4.1.1",
     "react": "^16.9.0",
+    "react-animate-height": "^2.0.15",
+    "react-collapse": "^4.0.3",
     "react-dom": "^16.9.0",
-    "react-scripts": "0.9.x"
+    "react-modal": "^3.10.1",
+    "react-motion": "^0.5.2",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "0.9.x",
+    "react-thunk": "^1.0.0",
+    "redux": "^4.0.4"
   },
   "devDependencies": {},
   "scripts": {
