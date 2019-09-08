@@ -1,0 +1,1 @@
+export const CONNECT_TO_SERVER = 'CONNECT_TO_SERVER';
