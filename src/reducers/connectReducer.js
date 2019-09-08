@@ -1,8 +1,7 @@
 import { CONNECT_TO_SERVER } from '../actions/types';
 
 const initialState = {
-    connected: false,
-    serverState: {}
+    connected: "init"
 };
 
 export default function(state = initialState,  action) {

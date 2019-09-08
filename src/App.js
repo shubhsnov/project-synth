@@ -9,9 +9,7 @@ class App extends Component {
     return (
       <Provider store={store}>
       <div className="App">
-        <p className="App-intro">
           <Entry />
-        </p>
       </div>
       </Provider>
     );
